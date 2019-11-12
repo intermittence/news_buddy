@@ -1,2 +1,2 @@
 # news_buddy
-a news title crawler written in C++ 17
+A news title crawler written in C++ 17.
